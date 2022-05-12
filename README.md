@@ -5,9 +5,15 @@ ABSTRACT : Windshield wipers play a key role during adverse weather conditions b
 
 
 KEYWORDS : 
+
 STM32F4DISCOVERY board
+
 Microcontroller
+
 wiper Electric Motor
+
 Wiper Arm
+
 Wiper transmission(Linkage)
+
 Wiper Blade
